@@ -1,6 +1,11 @@
 # Recengine
 
 ### 数据表格式
+#### 上传数据表（DataRouteTable）
+字段名|字段含义
+-|-
+id|自增，唯一标识
+workId|项目id
 
 #### 用户表（userTable）
 字段名|字段含义
@@ -33,6 +38,6 @@ type|算法类型，{0，1，2} 分别代表离线，近线，在线
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTI2NTI3NDAsLTY0NTg4NzE1NCwyMD
-Q4OTE5ODYwXX0=
+eyJoaXN0b3J5IjpbLTk3NTg0MDYwOCwtNjQ1ODg3MTU0LDIwND
+g5MTk4NjBdfQ==
 -->
