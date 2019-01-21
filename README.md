@@ -8,7 +8,11 @@ id|自增，唯一标识
 workId|项目id
 name|数据名称
 detail|数据描述
+type|数据类型 0：项目表，1：行为表，2：用户表
+path|数据存储路径
 
+
+**path**：默认本地路径+name
 
 #### 用户表（userTable）
 字段名|字段含义
@@ -41,6 +45,6 @@ type|算法类型，{0，1，2} 分别代表离线，近线，在线
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI2ODMzNzAsLTY0NTg4NzE1NCwyMD
-Q4OTE5ODYwXX0=
+eyJoaXN0b3J5IjpbMTY5NDQ0ODMxOSwtNjQ1ODg3MTU0LDIwND
+g5MTk4NjBdfQ==
 -->
