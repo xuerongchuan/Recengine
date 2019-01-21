@@ -13,6 +13,7 @@ id|用户id，自增，数值型，唯一标识
 id|自增，唯一标识
 userId|用户id
 parameter|参数字典列表
+result|推荐结果，默认为空
 
 
 **parameter**：[{'algoId'：<算法1>,'<参数名>'：<参数值>···},{'algoId'：<算法2>,'<参数名>'：<参数值>···}]
@@ -31,5 +32,5 @@ type|算法类型，{0，1，2} 分别代表离线，近线，在线
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODkxOTg2MF19
+eyJoaXN0b3J5IjpbLTY0NTg4NzE1NCwyMDQ4OTE5ODYwXX0=
 -->
