@@ -49,13 +49,13 @@ userDataPath|用户数据存储路径
 itemDataPath|项目数据存储路径
 actionDataPath|行为数据存储路径
 offlineAlgo|离线算法参数
-nearlineAlgo|近线算法id
-onlineAlgo|在线算法id
+nearlineAlgo|近线算法参数
+onlineAlgo|在线算法参数
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTQ2OTA2NiwyMzk5MzAzMzUsLTExMj
-AxMjg3NTAsMTA0MjY5MTE0NiwxNjk0NDQ4MzE5LC02NDU4ODcx
-NTQsMjA0ODkxOTg2MF19
+eyJoaXN0b3J5IjpbLTg5MjEwMzkwLDIzOTkzMDMzNSwtMTEyMD
+EyODc1MCwxMDQyNjkxMTQ2LDE2OTQ0NDgzMTksLTY0NTg4NzE1
+NCwyMDQ4OTE5ODYwXX0=
 -->
