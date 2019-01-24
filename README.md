@@ -42,10 +42,14 @@ type|算法类型，{0，1，2} 分别代表离线，近线，在线
 **parameter**：{'<参数名>'：<默认参数值列表>}
 
 ### 传递参数
-key|v
+参数名|含义
+-|-
+workId|项目id
+offlineDataPath|离线数据cu
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE0ODc5NDQsMTA0MjY5MTE0NiwxNj
-k0NDQ4MzE5LC02NDU4ODcxNTQsMjA0ODkxOTg2MF19
+eyJoaXN0b3J5IjpbNjM1NTUwMjM2LDEwNDI2OTExNDYsMTY5ND
+Q0ODMxOSwtNjQ1ODg3MTU0LDIwNDg5MTk4NjBdfQ==
 -->
