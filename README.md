@@ -48,12 +48,14 @@ workId|项目id
 userDataPath|用户数据存储路径
 itemDataPath|项目数据存储路径
 actionDataPath|行为数据存储路径
-offli
+offlineAlgo|离线算法参数
+nearlineAlgo|近线算法id
+onlineAlgo|在线算法id
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTY5NDI1MCwyMzk5MzAzMzUsLTExMj
+eyJoaXN0b3J5IjpbMjAxOTQ2OTA2NiwyMzk5MzAzMzUsLTExMj
 AxMjg3NTAsMTA0MjY5MTE0NiwxNjk0NDQ4MzE5LC02NDU4ODcx
 NTQsMjA0ODkxOTg2MF19
 -->
