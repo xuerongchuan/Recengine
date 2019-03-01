@@ -52,10 +52,13 @@ offlineAlgo|离线算法参数
 nearlineAlgo|近线算法参数
 onlineAlgo|在线算法参数
 
+### 接口
+目前采用zh
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjEwMzkwLDIzOTkzMDMzNSwtMTEyMD
-EyODc1MCwxMDQyNjkxMTQ2LDE2OTQ0NDgzMTksLTY0NTg4NzE1
-NCwyMDQ4OTE5ODYwXX0=
+eyJoaXN0b3J5IjpbLTE3NTI3Nzk5ODksLTg5MjEwMzkwLDIzOT
+kzMDMzNSwtMTEyMDEyODc1MCwxMDQyNjkxMTQ2LDE2OTQ0NDgz
+MTksLTY0NTg4NzE1NCwyMDQ4OTE5ODYwXX0=
 -->
