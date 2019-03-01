@@ -53,12 +53,13 @@ nearlineAlgo|近线算法参数
 onlineAlgo|在线算法参数
 
 ### 接口
-目前采用zh
+目前采用直接调用脚本的方式
+python test.py  data/cv
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTI3Nzk5ODksLTg5MjEwMzkwLDIzOT
-kzMDMzNSwtMTEyMDEyODc1MCwxMDQyNjkxMTQ2LDE2OTQ0NDgz
-MTksLTY0NTg4NzE1NCwyMDQ4OTE5ODYwXX0=
+eyJoaXN0b3J5IjpbNjEzNzc5MjA2LC04OTIxMDM5MCwyMzk5Mz
+AzMzUsLTExMjAxMjg3NTAsMTA0MjY5MTE0NiwxNjk0NDQ4MzE5
+LC02NDU4ODcxNTQsMjA0ODkxOTg2MF19
 -->
