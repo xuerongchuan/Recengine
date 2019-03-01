@@ -54,12 +54,13 @@ onlineAlgo|在线算法参数
 
 ### 接口
 目前采用直接调用脚本的方式
-python test.py  data/cv
+`python <py文件> <数据地址> <数据表名> <交叉验证折数>`
+`python test.py  data/cv/  data  5`
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzNzc5MjA2LC04OTIxMDM5MCwyMzk5Mz
+eyJoaXN0b3J5IjpbNzIwNDEzMjkxLC04OTIxMDM5MCwyMzk5Mz
 AzMzUsLTExMjAxMjg3NTAsMTA0MjY5MTE0NiwxNjk0NDQ4MzE5
 LC02NDU4ODcxNTQsMjA0ODkxOTg2MF19
 -->
