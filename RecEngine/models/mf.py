@@ -50,8 +50,27 @@ class MF(object):
             if self.config.verbose:
                 print(user, item, rating, prediction, pre_time)
             res.append([user, item, rating, prediction])
+        ##################################################333
+        #0304更新推荐结果
+        userList = list(set([i[0] for i in res]))
+        preDict = {}
+        for i in res:
+            if i[0] not in preDict.keys():
+                preDict[i[0]] = []
+            preDict[i[0]].append(i[1:])
+        finalRes = {}
+        for i in userList:
+            finalRes[i] = []
+            dic = {}
+            for j in preDict[i]:
+                dic[j[0]] = preDict[i][-1]
+            #z = sorted(dic)[:10]
+            list1= sorted(dic.items(),key=lambda x:x[1])
+            z = [i[0] for i in list1][:5]
+            finalRes[i] = z 
+        ####################################################33
         rmse = Metric.RMSE(res)
         mae = Metric.MAE(res)
-        return rmse, mae
+        return rmse, mae, finalRes
             
             
