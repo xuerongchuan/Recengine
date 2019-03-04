@@ -23,5 +23,8 @@ if __name__ == '__main__':
         mae_list.append(mae)
     print('rmse:', np.mean(rmse_list),'\n', 'mae:', \
           np.mean(mae_list))
-    
+    print('######################################################################')
+    for i in range(1,11):
+        print(('# User{:>3} -- Recommended Results -- {:>6}{:>6}{:>6}{:>6}{:>6}#').format(str(i),str(res[i][0]),str(res[i][1]),str(res[i][2]),str(res[i][3]),str(res[i][4])))
+    print('######################################################################')
     
